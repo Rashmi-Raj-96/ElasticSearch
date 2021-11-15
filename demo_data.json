@@ -1,0 +1,22 @@
+[
+    {
+        "_index": "test-index",
+        "author": "Raj",
+        "text": "Elasticsearch-Demo"
+    },
+    {
+        "_index": "test-index",
+        "author": "Singh",
+        "text": "Elasticsearch-Demo"
+    },
+    {
+        "_index": "test-index",
+        "author": "Raj",
+        "text": "Elasticsearch-Demo"
+    },
+    {
+        "_index": "test-index",
+        "author": "Kumar",
+        "text": "Elasticsearch-Demo"
+    }
+]
